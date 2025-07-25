@@ -2,15 +2,10 @@
 
 🎓 A Computer Science & Engineering undergraduate with a passion for problem-solving and technology.  
 💡 Recently completed an **Intern Software Developer position at Meghna Bank PLC**, gaining hands-on experience in automation, backend development, and system documentation.  
-🌱 Currently expanding my skills in **Django** and enhancing my backend development expertise.
+
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm passionate about building efficient and scalable software solutions that have a real-world impact. My journey into software engineering is fueled by a love for learning and creating systems that improve the lives of others. As I continue to develop my technical skills, I aim to contribute to projects that solve meaningful problems, particularly in the fields of **FinTech** and **Automation**.
-
----
 
 ## 🛠️ Tech Stack & Tools
 
