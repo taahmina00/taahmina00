@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tahmina — Aspiring Software Engineer
+# 👋 Hi, I'm Tahmina
 
 🎓 A Computer Science & Engineering graduate with a passion for problem-solving and technology.  
 💡 Recently completed an **Intern Software Developer position at Meghna Bank PLC**, gaining hands-on experience in automation, backend development, and system documentation.  
@@ -7,18 +7,11 @@
 ---
 
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![UiPath](https://img.shields.io/badge/-UiPath-F68B1E?style=flat-square&logo=uipath&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+Programming Languages: Python, PHP, SQL, HTML, CSS,JavaScript, C Frameworks & Libraries: Django, Pandas Automation
+Tools: UiPathDatabases: Oracle (PL/SQL), MySQLData Analysis & Visualization: Power BI(DAX, Power Query Builder), MS Excel Development
+Concepts: MVC, SDLC, STLC Tools & Platforms: VS Code, Command Line, GitHub Documentation: MS Word
 
 ---
 
