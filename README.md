@@ -32,13 +32,9 @@ Concepts: MVC, SDLC, STLC Tools & Platforms: VS Code, Command Line, GitHub Docum
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Publications
 
 - **Paper on “Machine Learning Approach on Breast-Cancer Prediction with SMOTE Technique”** accepted for presentation at the [3rd IEEE International Conference on BECITHCON](https://ieeexplore.ieee.org/document/10962722).
-- **Python Developer Certificate** from [SoloLearn](https://www.sololearn.com/en/certificates/CC-1I3Y0RQ8).
-- **Python (Basic) Certificate** from [HackerRank](https://www.hackerrank.com/certificates/4fe465d19f3a).
-- **Certificate in "Coding for Data"** from [SoloLearn](https://www.sololearn.com/en/certificates/CC-OSHSZUAL).
-
 
 ---
 
