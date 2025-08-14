@@ -25,7 +25,7 @@ Concepts: MVC, SDLC, STLC Tools & Platforms: VS Code, Command Line, GitHub Docum
 
 ---
 
-## 🧠 Projects
+## 🧠 Academic Projects
 
 * **Cat & Dog Image Classification** – A deep learning project using **Python, TensorFlow, CNN**.
 * **Fire Alarm System with Water Sprinkler** – Hardware and software integration with **Arduino UNO**.
