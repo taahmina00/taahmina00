@@ -34,7 +34,6 @@
 
 ## 🧠 Projects
 
-* **HR Management Web App** – Built with **PHP, MySQL, HTML/CSS**, hosted locally via XAMPP.
 * **Cat & Dog Image Classification** – A deep learning project using **Python, TensorFlow, CNN**.
 * **Fire Alarm System with Water Sprinkler** – Hardware and software integration with **Arduino UNO**.
 
