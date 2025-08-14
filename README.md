@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tahmina — Aspiring Software Engineer
 
-🎓 A Computer Science & Engineering undergraduate with a passion for problem-solving and technology.  
+🎓 A Computer Science & Engineering graduate with a passion for problem-solving and technology.  
 💡 Recently completed an **Intern Software Developer position at Meghna Bank PLC**, gaining hands-on experience in automation, backend development, and system documentation.  
 
 
@@ -24,7 +24,7 @@
 
 ## 💼 Recent Experience
 
-**Intern Developer – Meghna Bank PLC (Dec 2024 – Mar 2025)**
+**Intern Developer – Meghna Bank PLC (Dec 2024 – Aug 2025)**
 
 * Developed a standalone email automation app in **Python** integrated with Oracle DB.
 * Built a **UiPath** workflow that automated client statement generation, cutting down manual effort by almost 100%.
@@ -37,14 +37,6 @@
 * **HR Management Web App** – Built with **PHP, MySQL, HTML/CSS**, hosted locally via XAMPP.
 * **Cat & Dog Image Classification** – A deep learning project using **Python, TensorFlow, CNN**.
 * **Fire Alarm System with Water Sprinkler** – Hardware and software integration with **Arduino UNO**.
-
----
-
-## 🌱 Learning and Growth
-
-Currently exploring **Django** for backend development and building APIs. I’m also diving deeper into **machine learning** and **data science**, specifically around **TensorFlow** and **scikit-learn**.
-
-I'm also looking forward to expanding my knowledge in **cloud computing**, **containerization**, and **DevOps** tools.
 
 ---
 
