@@ -10,7 +10,7 @@
 ## 🛠️ Technologies & Tools
 
 Programming Languages: Python, PHP, SQL, HTML, CSS,JavaScript, C Frameworks & Libraries: Django, Pandas Automation
-Tools: UiPathDatabases: Oracle (PL/SQL), MySQLData Analysis & Visualization: Power BI(DAX, Power Query Builder), MS Excel Development
+Tools: UiPathDatabases: Oracle (PL/SQL), MySQLData Analysis & Visualization: Power BI(DAX, Power Query), MS Excel Development
 Concepts: MVC, SDLC, STLC Tools & Platforms: VS Code, Command Line, GitHub Documentation: MS Word
 
 ---
