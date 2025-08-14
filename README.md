@@ -17,7 +17,7 @@ Concepts: MVC, SDLC, STLC Tools & Platforms: VS Code, Command Line, GitHub Docum
 
 ## 💼 Recent Experience
 
-**Intern Developer – Meghna Bank PLC (Dec 2024 – Aug 2025)**
+**Intern Developer – Meghna Bank PLC (Dec 2024 – Aug 2025)** Duration: 6 Months
 
 * Developed a standalone email automation app in **Python** integrated with Oracle DB.
 * Built a **UiPath** workflow that automated client statement generation, cutting down manual effort by almost 100%.
