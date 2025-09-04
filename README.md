@@ -7,11 +7,11 @@
 ---
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills
 
-Programming Languages: Python, PHP, SQL, HTML, CSS,JavaScript, C Frameworks & Libraries: Django, Pandas Automation
-Tools: UiPathDatabases: Oracle (PL/SQL), MySQLData Analysis & Visualization: Power BI(DAX, Power Query), MS Excel Development
-Concepts: MVC, SDLC, STLC Tools & Platforms: VS Code, Command Line, GitHub Documentation: MS Word
+Programming: Python, C, HTML, CSS, SQL, Oracle (PL/SQL), MySQL | Data Science: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn | BI Tools: Power BI (DAX, Power Query, ETL), Excel | Automation: UiPath, RPA Development | Tools: VS Code, Git/GitHub, Jira, Notion
+
+Core Competencies: Problem Solving, Analytical Thinking, Communication, Leadership, Project Management, Adaptability, Continuous Learning, Agile, SDLC
 
 ---
 
